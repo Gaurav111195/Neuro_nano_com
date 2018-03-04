@@ -1,2 +1,0 @@
-# nano_com
-This C++ code is the mathematical modeling of communication system in neuron, which considers most of the biological phenomenon occurring in neuron cell. The effect of calcium ions on BDNF fast axonal transport. Effect of ABO on the transport of BDNF is also included in this code. The receiver of the model which computes the number of microtubular gates, employs Lagrangian relaxation subgradient optimization algorithm.
